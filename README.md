@@ -1,2 +1,2 @@
 # Bluetooth-Controlled-Goods-Lifter-
-An embedded C project demonstrating proficient systems programming with the 8051 microcontroller
+An embedded C project done for ECE3003: Microcontrolers and its applications course
